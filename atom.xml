@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://berrydevelop.github.io/</id>
+    <title>实践是检验真理的唯一标准</title>
+    <updated>2022-07-13T00:58:47.260Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://berrydevelop.github.io/"/>
+    <link rel="self" href="https://berrydevelop.github.io/atom.xml"/>
+    <logo>https://berrydevelop.github.io/images/avatar.png</logo>
+    <icon>https://berrydevelop.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 实践是检验真理的唯一标准</rights>
+    <entry>
+        <title type="html"><![CDATA[我曾七次鄙视我的灵魂]]></title>
+        <id>https://berrydevelop.github.io/post/wo-ceng-qi-ci-bi-shi-wo-de-ling-hun/</id>
+        <link href="https://berrydevelop.github.io/post/wo-ceng-qi-ci-bi-shi-wo-de-ling-hun/">
+        </link>
+        <updated>2022-07-13T00:57:29.000Z</updated>
+        <content type="html"><![CDATA[<h3 id="seven-times-i-have-despised-my-soul">Seven times I have despised my soul:</h3>
+<ul>
+<li>The first time when I saw her being meek that she might attain height.</li>
+<li>The second time when I saw her limping before the crippled.</li>
+<li>The third time when she was given to choose between the hard and the easy, and she chose the easy.</li>
+<li>The fourth time when she committed a wrong, and comforted herself that others also commit wrong.</li>
+<li>The fifth time when she forbode for weakness, and attributed her patience to strength.</li>
+<li>The sixth time when she despised the ugliness of a face, and knew not that it was one of her own masks.</li>
+<li>And the seventh time when she sang a song of praise, and deemed it a virtue.</li>
+</ul>
+]]></content>
+    </entry>
+</feed>
